@@ -13,7 +13,7 @@ Hi! I am Yuchen Li, a 1st-year master student major in computer science at [King
 
 <div class="post"><!-- ## About Me -->
 <h1 id="education">Education<br /></h1>
-<p><img src="../images/KAUST.png" alt="KAUST" style="width:80px;float:left" /></p>
+<p><img src="images/KAUST.png" alt="KAUST" style="width:80px;float:left" /></p>
 <p style="margin-left:230px"><b>Master in Computer Science</b><br />
 University of California Berkeley<br />
 Aug 2020 - May 2022</p>
@@ -40,7 +40,7 @@ Advisor: <a href="https://www.chuatatseng.com">Chua Tat-Seng</a> and <a href="ht
 Dequan Wang*, Evan Shelhamer*, Shaoteng Liu, Bruno Olshausen, Trevor Darrell.<br />
 arXiv preprint arXiv:2006.10726<br />
 <a href="https://arxiv.org/pdf/2006.10726.pdf">paper</a></p>
-<p><img src="../assets/HZSL.png" alt="Test Image" style="height:230px;float:left" /></p>
+<p><img src="../assets/HZSL.png" alt="Test Image" style="height:150px;float:left" /></p>
 <p style="margin-left:230px"><b>Hyperbolic Visual Embedding Learning for Zero-Shot Recognition.</b><br />
 Shaoteng Liu, Jingjing Chen, Liangming Pan, Chong-Wah Ngo, Tat-Seng Chua, Yu-Gang Jiang.<br />
 Computer Vision and Pattern Recognition (CVPR), 2020.<br />
@@ -54,5 +54,4 @@ Computer Vision and Pattern Recognition (CVPR), 2020.<br />
   <li>Second Prize for China Undergraduate Mathematical Contest in Modeling, 2018</li>
   <li>Third Prize for The Chinese Mathematics Competitions, 2018</li>
 </ul>
-
 </div>
