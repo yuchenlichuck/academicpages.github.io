@@ -30,11 +30,11 @@ Sep 2017 - Jun 2021 (Expected)</p>
 <br><p>
 
 <h1 id="research-experience">Research Experience<br /></h1>
-<p><img src="../assets/BAIR.png" alt="Test Image" style="height:80px;float:left" /></p>
+<p><img src="../images/VCC.png" alt="Test Image" style="height:80px;float:left" /></p>
 <p style="margin-left:230px"><b>Graduate Researcher </b><br />
 KAUST Visual Computing Center<br />
 Supervisor: <a href="http://www.mohamed-elhoseiny.com/">Mohamed H. Elhoseiny</a></p>
-<p><img src="../assets/next.png" alt="Test Image" style="height:70px;float:left" /></p>
+<p><img src="../images/SUSTech.png" alt="Test Image" style="height:110px;float:left" /></p>
 <p style="margin-left:230px"><b>Undergraduate Research Assistant</b><br />
 Southern University of Science and Technology (SUSTech)<br />
 Advisor: <a href="https://yuzhanghk.github.io/">Yu Zhang</a> and <a href="http://faculty.sustech.edu.cn/tangxy/en/">Xiaoying Tang</a></p>
