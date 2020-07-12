@@ -13,7 +13,7 @@ Hi! I am Yuchen Li, a 1st-year master student major in computer science at [King
 
 <div class="post"><!-- ## About Me -->
 <h1 id="education">Education<br /></h1>
-<p><img src="images/KAUST.png" alt="KAUST" style="width:80px;float:left" /></p>
+<p><img src="../images/KAUST.png" alt="KAUST" style="width:230px;float:left" /></p>
 <p style="margin-left:230px"><b>Master in Computer Science</b><br />
 University of California Berkeley<br />
 Aug 2020 - May 2022</p>
@@ -21,7 +21,8 @@ Aug 2020 - May 2022</p>
 <p style="margin-left:230px"><b>Exchange Student of School of Computing</b><br />
 National University of Singapore<br />
 Jan 2019 - May 2019</p>
-<p><img src="../images/SUSTech.png" alt="SUSTech" style="width:150px;float:left" /></p>
+
+<p><img src="../images/SUSTech.png" alt="SUSTech" style="width:230px;float:left" /></p>
 <p style="margin-left:230px"><b>Bachelor in Computer Science</b><br />
 Southern University of Science and Technology<br />
 Sep 2017 - Jun 2021 (Expected)</p>
@@ -30,7 +31,7 @@ Sep 2017 - Jun 2021 (Expected)</p>
 <p style="margin-left:230px"><b>Undergraduate Intern Research</b><br />
 Berkeley Artificial Intelligence Research (BAIR) Lab<br />
 Supervisor: <a href="https://dequan.wang">Dequan Wang</a> | Advisor: <a href="https://people.eecs.berkeley.edu/~trevor/">Trevor Darrell</a></p>
-<p><img src="../assets/next.png" alt="Test Image" style="height:80px;float:left" /></p>
+<p><img src="../assets/next.png" alt="Test Image" style="height:90px;float:left" /></p>
 <p style="margin-left:230px"><b>Undergraduate Intern Research</b><br />
 National University of Singapore (School of Computing)<br />
 Advisor: <a href="https://www.chuatatseng.com">Chua Tat-Seng</a> and <a href="https://www.cs.cityu.edu.hk/~cwngo/">Chong-Wah Ngo</a></p>
@@ -54,4 +55,5 @@ Computer Vision and Pattern Recognition (CVPR), 2020.<br />
   <li>Second Prize for China Undergraduate Mathematical Contest in Modeling, 2018</li>
   <li>Third Prize for The Chinese Mathematics Competitions, 2018</li>
 </ul>
+
 </div>
