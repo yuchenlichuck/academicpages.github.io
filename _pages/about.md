@@ -1,5 +1,5 @@
 ---
-permalink: /
+<permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
@@ -13,40 +13,32 @@ Hi! I am Yuchen Li, a 1st-year master student major in computer science at [King
 
 <div class="post"><!-- ## About Me -->
 <h1 id="education">Education<br /></h1>
-<p><img src="../images/KAUST.png" alt="KAUST" style="width:230px;float:left" /></p>
+<p><img src="../images/KAUST.png" alt="KAUST" style="width:210px;float:left" /></p>
 <p style="margin-left:230px"><b>Master in Computer Science</b><br />
 University of California Berkeley<br />
 Aug 2020 - May 2022</p>
-<p><img src="../images/NUS.png" alt="NUS" style="height:70px;float:left" /></p>
+<p><img src="../images/NUS.png" alt="NUS" style="height:90px;float:left" /></p>
 <p style="margin-left:230px"><b>Exchange Student of School of Computing</b><br />
 National University of Singapore<br />
 Jan 2019 - May 2019</p>
 
-<p><img src="../images/SUSTech.png" alt="SUSTech" style="width:230px;float:left" /></p>
+<p><img src="../images/SUSTech.png" alt="NUS" width="230px" style="float:left"/></p>
 <p style="margin-left:230px"><b>Bachelor in Computer Science</b><br />
 Southern University of Science and Technology<br />
 Sep 2017 - Jun 2021 (Expected)</p>
+
+<br><p>
+
 <h1 id="research-experience">Research Experience<br /></h1>
 <p><img src="../assets/BAIR.png" alt="Test Image" style="height:80px;float:left" /></p>
-<p style="margin-left:230px"><b>Undergraduate Intern Research</b><br />
-Berkeley Artificial Intelligence Research (BAIR) Lab<br />
-Supervisor: <a href="https://dequan.wang">Dequan Wang</a> | Advisor: <a href="https://people.eecs.berkeley.edu/~trevor/">Trevor Darrell</a></p>
-<p><img src="../assets/next.png" alt="Test Image" style="height:90px;float:left" /></p>
-<p style="margin-left:230px"><b>Undergraduate Intern Research</b><br />
-National University of Singapore (School of Computing)<br />
-Advisor: <a href="https://www.chuatatseng.com">Chua Tat-Seng</a> and <a href="https://www.cs.cityu.edu.hk/~cwngo/">Chong-Wah Ngo</a></p>
-<h1 id="publication">Publication<br /></h1>
-<p><img src="../assets/FTTA.png" alt="Test Image" style="height:120px;float:left" /></p>
-<p style="margin-left:230px"><b>Fully Test-time Adaptation by Entropy Minimization.</b><br />
-Dequan Wang*, Evan Shelhamer*, Shaoteng Liu, Bruno Olshausen, Trevor Darrell.<br />
-arXiv preprint arXiv:2006.10726<br />
-<a href="https://arxiv.org/pdf/2006.10726.pdf">paper</a></p>
-<p><img src="../assets/HZSL.png" alt="Test Image" style="height:150px;float:left" /></p>
-<p style="margin-left:230px"><b>Hyperbolic Visual Embedding Learning for Zero-Shot Recognition.</b><br />
-Shaoteng Liu, Jingjing Chen, Liangming Pan, Chong-Wah Ngo, Tat-Seng Chua, Yu-Gang Jiang.<br />
-Computer Vision and Pattern Recognition (CVPR), 2020.<br />
-<a href="http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Hyperbolic_Visual_Embedding_Learning_for_Zero-Shot_Recognition_CVPR_2020_paper.pdf">paper</a>
-<a href="https://github.com/ShaoTengLiu/Hyperbolic_ZSL">code</a></p>
+<p style="margin-left:230px"><b>Graduate Researcher </b><br />
+KAUST Visual Computing Center<br />
+Supervisor: <a href="http://www.mohamed-elhoseiny.com/">Mohamed H. Elhoseiny</a></p>
+<p><img src="../assets/next.png" alt="Test Image" style="height:70px;float:left" /></p>
+<p style="margin-left:230px"><b>Undergraduate Research Assistant</b><br />
+Southern University of Science and Technology (SUSTech)<br />
+Advisor: <a href="https://yuzhanghk.github.io/">Yu Zhang</a> and <a href="http://faculty.sustech.edu.cn/tangxy/en/">Xiaoying Tang</a></p>
+
 <h1 id="honors-and-awards">Honors and Awards<br /></h1>
 <ul>
   <li><strong>Top 10 Undergraduate of Xi’an Jiaotong University (top 0.1% student)</strong> (This is the highest honor for undergraduates in XJTU. 10 students among 16k are awarded each year), 2019</li>
